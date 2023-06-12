@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-api:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bcb3722652e5513600814c7c836651cc/transformed/play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9305f87c07ff356acb05464d286310b7/transformed/play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f78c07277ee471d9ec0e3d1feba00acb/transformed/play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/124e9a846f63f579e1969056b1c379fd/transformed/jetified-play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a93eb39710a9a89daf65f946e0111be/transformed/jetified-play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f13a5a15107632f8319cff7015958cb5/transformed/jetified-play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a2826444db52fbbc95ae498b749ce08/transformed/jetified-play-services-measurement-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1ecf91c7476c84fd2c767805713fa11/transformed/jetified-play-services-measurement-api-20.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1ecf91c7476c84fd2c767805713fa11/transformed/jetified-play-services-measurement-api-20.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1ecf91c7476c84fd2c767805713fa11/transformed/jetified-play-services-measurement-api-20.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-api/20.1.1/57137f295218ec4d26146d199fcf2ada260472ed/play-services-measurement-api-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

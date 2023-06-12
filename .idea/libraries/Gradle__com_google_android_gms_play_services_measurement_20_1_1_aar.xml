@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a40549a907eeccc06113bdc5c78c21ae/transformed/play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5c01a19a44681b0ccfa9c6ec4b211fb/transformed/play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b26bc8b1ee18ecd0ed13d64abb4f9ae/transformed/play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42bdc51b807fe142f712464638f3a5e3/transformed/jetified-play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3ef5c82cd6a03e42c33a40fdc68f2618/transformed/jetified-play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3dfd638ff7685058742e61c393efba28/transformed/jetified-play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77bff8b96680efe95c42abbc8877d903/transformed/jetified-play-services-measurement-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc1b95ec77abab923cb4a26b1d6dd231/transformed/jetified-play-services-measurement-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fc1b95ec77abab923cb4a26b1d6dd231/transformed/jetified-play-services-measurement-20.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc1b95ec77abab923cb4a26b1d6dd231/transformed/jetified-play-services-measurement-20.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement/20.1.1/3c6375b0913f21bad5a4c7256f4e8d39e6127187/play-services-measurement-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

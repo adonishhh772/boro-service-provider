@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/067e74296cbc51ee3ae498cef73ed6a2/transformed/play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8074b341780a47806f819075200b4348/transformed/play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/638c5c9a86a0106965789d5832278d9a/transformed/play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b60d68419e77619e111d4c18b3cd8e55/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6cf64eb02fea307f7e2d9e2d604a8aa/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6729e685d324b0a73cbd1105dd4dcc07/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ad8324d2ec86eb377a44b2baa2d4c00/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c63fa7eee0545311406c869435719192/transformed/jetified-play-services-measurement-sdk-api-20.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c63fa7eee0545311406c869435719192/transformed/jetified-play-services-measurement-sdk-api-20.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c63fa7eee0545311406c869435719192/transformed/jetified-play-services-measurement-sdk-api-20.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/20.1.1/ace98f39b262c59be4be4d52b871d1ba5dfff723/play-services-measurement-sdk-api-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

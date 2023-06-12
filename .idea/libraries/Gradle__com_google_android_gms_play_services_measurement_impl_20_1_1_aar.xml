@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-impl:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e51208cfab4b8c4806ee93fc4b7ca0c/transformed/play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12a3d0fdc69bf0f49314a12e4fff3a2d/transformed/play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8721d2c63cca6276479ea5a72d3dc621/transformed/play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6156919636ae4267174689d55bb55230/transformed/jetified-play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0340a04443cc95dcbd780b2d75c1f4ad/transformed/jetified-play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a0158b23d9e8164dd3203a5a347a28a/transformed/jetified-play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3e0b00180d6640d789474904d89511f/transformed/jetified-play-services-measurement-impl-20.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/727a176bddca57de1d11ca87b5b09105/transformed/jetified-play-services-measurement-impl-20.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/727a176bddca57de1d11ca87b5b09105/transformed/jetified-play-services-measurement-impl-20.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/727a176bddca57de1d11ca87b5b09105/transformed/jetified-play-services-measurement-impl-20.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/20.1.1/6408cdd09735e828af74dd0c71746a3fd9bace95/play-services-measurement-impl-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

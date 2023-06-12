@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/map">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="uk.tees.b1162802.boro.MapsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_maps"  />
+    <fragment
+        android:id="@+id/nav_favourites"
+        android:name="uk.tees.b1162802.boro.ui.favourite.FavouriteFragment"
+        android:label="@string/menu_favourites"
+        tools:layout="@layout/fragment_favourites" />
+
+
+    <fragment
+        android:id="@+id/nav_setting"
+        android:name="uk.tees.b1162802.boro.ui.settings.SettingFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_terms"
+        android:name="uk.tees.b1162802.boro.ui.terms.TermsFragment"
+        android:label="@string/menu_terms"
+        tools:layout="@layout/fragment_terms" />
+
+    <fragment
+        android:id="@+id/nav_privacy"
+        android:name="uk.tees.b1162802.boro.ui.privacy.PrivacyFragment"
+        android:label="@string/menu_terms"
+        tools:layout="@layout/privacy_policy" />
+    <fragment
+        android:id="@+id/nav_contact_us"
+        android:name="uk.tees.b1162802.boro.ui.contact.ContactFragment"
+        android:label="@string/menu_terms"
+        tools:layout="@layout/contact_us" />
+</navigation>

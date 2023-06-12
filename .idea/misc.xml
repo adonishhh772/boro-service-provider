@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12760416666666666" />
+        <entry key="app/src/main/res/drawable/borders.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/boro_logo_background.xml" value="0.188" />
+        <entry key="app/src/main/res/drawable/bottomsheet_background.xml" value="0.188" />
+        <entry key="app/src/main/res/drawable/daytime_logo_foreground.xml" value="0.188" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.205" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/nav_item.xml" value="0.258" />
+        <entry key="app/src/main/res/drawable/night_logo_background.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/night_logo_foreground.xml" value="0.188" />
+        <entry key="app/src/main/res/drawable/no_data_found_background.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/ripple_effect.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.188" />
+        <entry key="app/src/main/res/drawable/services.xml" value="0.127" />
+        <entry key="app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.4761444091796876" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10104166666666667" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.15172101449275363" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_profile_edit.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3066864013671875" />
+        <entry key="app/src/main/res/layout/add_category.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/app_bar_navigation.xml" value="0.15172101449275363" />
+        <entry key="app/src/main/res/layout/completed_services.xml" value="0.18696036960767667" />
+        <entry key="app/src/main/res/layout/contact_us.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_navigation.xml" value="0.15172101449275363" />
+        <entry key="app/src/main/res/layout/content_navigation2.xml" value="0.11614583333333334" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.40364842069321794" />
+        <entry key="app/src/main/res/layout/forgot_password.xml" value="0.11827956989247312" />
+        <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/layout/fragment_favourites.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.2627986348122867" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_services.xml" value="0.19157894736842104" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.13858695652173914" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/fragment_terms.xml" value="0.16293929712460065" />
+        <entry key="app/src/main/res/layout/nav_header_navigation.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/news_row.xml" value="0.34186706542968753" />
+        <entry key="app/src/main/res/layout/privacy_policy.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/search_modal_fragment.xml" value="0.21671018276762402" />
+        <entry key="app/src/main/res/layout/setting_list_group.xml" value="0.39332784016927086" />
+        <entry key="app/src/main/res/layout/setting_list_item.xml" value="0.23852386474609377" />
+        <entry key="app/src/main/res/layout/splash_screen.xml" value="0.24129587809244793" />
+        <entry key="app/src/main/res/layout/toolbar_layout.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/upcoming_services.xml" value="0.13858695652173914" />
+        <entry key="app/src/main/res/layout/update_password.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.2515625" />
+        <entry key="app/src/main/res/menu/menu_profile.xml" value="0.24523773193359377" />
+        <entry key="app/src/main/res/menu/navigation.xml" value="0.2515625" />
+        <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.2515625" />
+        <entry key="app/src/main/res/menu/profile_menu.xml" value="0.10233306884765625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/boro_logo.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/boro_logo_round.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/daytime_logo.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/no_data_found.xml" value="0.1965" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/no_data_found_round.xml" value="0.1085" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/teeside_logo.xml" value="0.1085" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.44000447591145836" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
